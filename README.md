@@ -31,7 +31,7 @@
 
 ### 🔹 Full Stack Application Deployment (Project Rabbit)
 
-🌐 Live: https://pratikproject.xyz
+
 
 * Deployed full-stack Node.js application on AWS EC2
 * Configured NGINX as reverse proxy
