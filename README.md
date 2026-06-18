@@ -2,7 +2,7 @@
 
 💻 Aspiring Cloud & DevOps Engineer
 ☁️ Passionate about AWS, Automation & Scalable Systems
-🚀 Goal: Become a Professional Cloud / DevOps Engineer
+🚀 Goal: Become a Professional Cloud / DevOps Engineer.
 
 ---
 
