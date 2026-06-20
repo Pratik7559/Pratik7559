@@ -8,7 +8,7 @@
 
 ## 🔥 About Me
 
-* 🎓 Computer Science Student
+* 🎓 Computer Science Student 
 * ⚡ Hands-on with real AWS services (EC2 to DynamoDB)
 * 🛠️ Love deploying real-world applications on cloud
 * 📈 Currently learning advanced DevOps tools
