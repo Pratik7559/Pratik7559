@@ -37,7 +37,7 @@
 * Configured NGINX as reverse proxy
 * Managed backend using PM2
 * Integrated MySQL database on server
-* Setup HTTPS using Let's Encrypt SSL
+* Setup HTTPS using Lets Encrypt SSL
 * Connected custom domain
 
 #### 🛠️ Tech Stack:
