@@ -6,7 +6,7 @@
 
 ---
 
-## 🔥 About Me
+## 🔥 About Me 
 
 * 🎓 Computer Science Student 
 * ⚡ Hands-on with real AWS services (EC2 to DynamoDB)
